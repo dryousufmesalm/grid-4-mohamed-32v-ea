@@ -1,0 +1,11 @@
+﻿# MQL5 build and logs
+*.ex5
+*.log
+_build_*.txt
+_compile_*.txt
+*.dll
+
+# IDE
+.vs/
+*.suo
+*.user
